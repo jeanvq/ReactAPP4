@@ -80,10 +80,10 @@ src/
 
 > Premier League Big Six — Manchester City, Arsenal, Liverpool, Chelsea, Manchester United, Tottenham
 
-![App Screenshot 1](images/Screenshot%202026-05-07%20at%2010.13.33%20PM.png)
-![App Screenshot 2](images/Screenshot%202026-05-07%20at%2010.13.47%20PM.png)
-![App Screenshot 3](images/Screenshot%202026-05-07%20at%2010.14.25%20PM.png)
-![App Screenshot 4](images/Screenshot%202026-05-07%20at%2010.15.03%20PM.png)
+![App Screenshot 1](images/Screenshot%202026-05-07%20at%2010.13.33%E2%80%AFPM.png)
+![App Screenshot 2](images/Screenshot%202026-05-07%20at%2010.13.47%E2%80%AFPM.png)
+![App Screenshot 3](images/Screenshot%202026-05-07%20at%2010.14.25%E2%80%AFPM.png)
+![App Screenshot 4](images/Screenshot%202026-05-07%20at%2010.15.03%E2%80%AFPM.png)
 
 ## 👨‍💻 Author
 
